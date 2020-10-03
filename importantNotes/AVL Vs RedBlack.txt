@@ -1,0 +1,4 @@
+AVL provides faster look ups as it more strictly balanced
+
+Red Black provides faster insertions and deletions than AVL trees
+	as fewer rotations are done due to relatively relaxed balancing.

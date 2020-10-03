@@ -1,0 +1,5 @@
+Big O Rules:
+    - We Focus On The Worst Case Senarion.
+    - Remove Constants
+    - Diiferant Terms For Deifferant Inputs
+    - Drop Non Dominant
